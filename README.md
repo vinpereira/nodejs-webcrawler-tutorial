@@ -1,3 +1,5 @@
+[![Dependency Status](https://gemnasium.com/badges/github.com/vinpereira/nodejs-webcrawler-tutorial.svg)](https://gemnasium.com/github.com/vinpereira/nodejs-webcrawler-tutorial)
+
 ## README
 This is a simple code for learning about Web Crawler with Node.js.
 
