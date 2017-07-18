@@ -1,0 +1,26 @@
+{
+  "name": "nodejs-webcrawler-tutorial",
+  "version": "1.0.0",
+  "main": "crawler.js",
+  "scripts": {
+    "start": "node crawler.js",
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "Vinícius Pereira",
+  "license": "MIT",
+  "dependencies": {
+    "cheerio": "^1.0.0-rc.2",
+    "request": "^2.81.0",
+    "url-parse": "^1.1.9"
+  },
+  "devDependencies": {},
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/vinpereira/nodejs-webcrawler-tutorial.git"
+  },
+  "bugs": {
+    "url": "https://github.com/vinpereira/nodejs-webcrawler-tutorial/issues"
+  },
+  "homepage": "https://github.com/vinpereira/nodejs-webcrawler-tutorial#readme",
+  "description": ""
+}
